@@ -25,11 +25,11 @@ public class Main {
 //
 //        lisaWorkbook.solve();
 
-        TheGridSearch theGridSearch = new TheGridSearch();
+//        TheGridSearch theGridSearch = new TheGridSearch();
 
-        theGridSearch.solve();
+//        theGridSearch.solve();
 
-
+           CavityMap.solve();
 
 
     }
