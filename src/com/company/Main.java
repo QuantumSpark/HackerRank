@@ -29,7 +29,7 @@ public class Main {
 
 //        theGridSearch.solve();
 
-
+           CavityMap.solve();
 
 
     }
