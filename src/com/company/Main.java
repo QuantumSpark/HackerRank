@@ -31,6 +31,7 @@ public class Main {
 
 //           CavityMap.solve();
 
-        Pangrams.solve();
+       // Pangrams.solve();
+        Anagram.solve();
     }
 }
