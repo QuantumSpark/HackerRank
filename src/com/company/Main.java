@@ -32,6 +32,8 @@ public class Main {
 //           CavityMap.solve();
 
        // Pangrams.solve();
-        Anagram.solve();
+      //  Anagram.solve();
+
+        DivisibleSumPairs.solve();
     }
 }
