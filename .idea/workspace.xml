@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/makingAnagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-    </list>
+    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="" />
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -728,12 +724,12 @@
       <workItem from="1468296212192" duration="4229000" />
       <workItem from="1468307799923" duration="2995000" />
       <workItem from="1468311398172" duration="2257000" />
-      <workItem from="1468384394296" duration="8559000" />
+      <workItem from="1468384394296" duration="8591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62519000" />
+    <option name="totallyTimeSpent" value="62551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="249" y="23" width="1063" height="692" extended-state="0" />
