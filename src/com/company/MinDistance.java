@@ -21,25 +21,29 @@ public class MinDistance {
     }
     private static void findMinDist(int[] A) {
         int size = A.length;
-        int min = 0;
+        int min = -1;
+        int p;
+        boolean f = true ;
         for (int i =0 ; i < size; i++) {
-            for (int j = 0 ; ) {
+            for (int j = i+1; j < size; j++) {
+                if (A[i] == A[j]) {
 
-            }
-            if (A[i] == A[size -i -1]) {
-                int j = size -i - 1;
-                int d = Math.abs(j-i);
-                if (min != 0) {
-                    min = Math.min(d,min);
-                }else {
-                    min =d;
+                    int d = Math.abs(j-i);
+
+                    if (f)  {
+                        f = false;
+                        min = d;
+                    }
+                    p = d;
+                    if (d < min){
+                        min = p;
+                    }
                 }
             }
+
+
         }
-        if (min != 0) {
-            System.out.println(min);
-        } else {
-            System.out.println(-1);
-        }
+        System.out.print(min);
+
     }
 }
