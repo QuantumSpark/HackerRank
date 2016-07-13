@@ -38,6 +38,6 @@ public class Main {
 //        MinDistance.solve();
 //        FunnyString.solve();
 
-        CaesarCipher.solve();
+       makingAnagram.solve();
     }
 }
