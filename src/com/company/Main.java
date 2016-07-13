@@ -35,6 +35,7 @@ public class Main {
       //  Anagram.solve();
 
 //        DivisibleSumPairs.solve();
-        MinDistance.solve();
+//        MinDistance.solve();
+        FunnyString.solve();
     }
 }
