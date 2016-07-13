@@ -34,6 +34,7 @@ public class Main {
        // Pangrams.solve();
       //  Anagram.solve();
 
-        DivisibleSumPairs.solve();
+//        DivisibleSumPairs.solve();
+        MinDistance.solve();
     }
 }
