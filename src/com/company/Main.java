@@ -36,6 +36,8 @@ public class Main {
 
 //        DivisibleSumPairs.solve();
 //        MinDistance.solve();
-        FunnyString.solve();
+//        FunnyString.solve();
+
+        CaesarCipher.solve();
     }
 }
