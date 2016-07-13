@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/MinDistance.java" afterPath="$PROJECT_DIR$/src/com/company/MinDistance.java" />
     </list>
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -191,7 +190,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="547" />
+    <option name="x" value="336" />
     <option name="y" value="23" />
     <option name="width" value="1063" />
     <option name="height" value="692" />
@@ -783,15 +782,15 @@
       <workItem from="1468219845331" duration="2303000" />
       <workItem from="1468296212192" duration="4229000" />
       <workItem from="1468307799923" duration="2995000" />
-      <workItem from="1468311398172" duration="2257000" />
+      <workItem from="1468311398172" duration="2372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53960000" />
+    <option name="totallyTimeSpent" value="54075000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="547" y="23" width="1063" height="692" extended-state="0" />
+    <frame x="336" y="23" width="1063" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
