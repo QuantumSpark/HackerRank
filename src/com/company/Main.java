@@ -32,6 +32,13 @@ public class Main {
 //           CavityMap.solve();
 
        // Pangrams.solve();
+      //  Anagram.solve();
+
+//        DivisibleSumPairs.solve();
+//        MinDistance.solve();
+//        FunnyString.solve();
+
+//       makingAnagram.solve();
    //     Anagram.solve();
         PalindromeIndex.solve();
     }
