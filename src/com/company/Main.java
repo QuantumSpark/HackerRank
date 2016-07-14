@@ -38,6 +38,8 @@ public class Main {
 //        MinDistance.solve();
 //        FunnyString.solve();
 
-       makingAnagram.solve();
+//       makingAnagram.solve();
+   //     Anagram.solve();
+        PalindromeIndex.solve();
     }
 }
