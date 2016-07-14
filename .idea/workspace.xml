@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank/com/company/PalindromeIndex.class" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/company/PalindromeIndex.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/PalindromeIndex.java" afterPath="$PROJECT_DIR$/src/com/company/PalindromeIndex.java" />
-    </list>
+    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="" />
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -775,12 +771,12 @@
       <workItem from="1468216463890" duration="14000" />
       <workItem from="1468219845331" duration="2303000" />
       <workItem from="1468296212192" duration="9792000" />
-      <workItem from="1468463411395" duration="1685000" />
+      <workItem from="1468463411395" duration="1780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55956000" />
+    <option name="totallyTimeSpent" value="56051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="315" y="23" width="1063" height="692" extended-state="0" />
