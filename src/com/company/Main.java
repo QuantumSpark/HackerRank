@@ -40,6 +40,7 @@ public class Main {
 
 //       makingAnagram.solve();
    //     Anagram.solve();
-        PalindromeIndex.solve();
+ //       PalindromeIndex.solve();
+        Gemstones.solve();
     }
 }
