@@ -41,6 +41,7 @@ public class Main {
 //       makingAnagram.solve();
    //     Anagram.solve();
  //       PalindromeIndex.solve();
-        Gemstones.solve();
+      //  Gemstones.solve();
+        LoveLetter.solve();
     }
 }
