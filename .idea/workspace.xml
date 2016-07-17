@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/TwoString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank/com/company/LoveLetter.class" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/company/LoveLetter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HackerRank/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/company/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-    </list>
+    <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="" />
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -88,8 +82,8 @@
       <file leaf-file-name="TwoString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/TwoString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="53" column="5" selection-start-line="24" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="19">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -775,12 +769,12 @@
       <workItem from="1468563200378" duration="2696000" />
       <workItem from="1468567148325" duration="1822000" />
       <workItem from="1468714476487" duration="2778000" />
-      <workItem from="1468775169908" duration="77000" />
+      <workItem from="1468775169908" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69947000" />
+    <option name="totallyTimeSpent" value="70383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="217" y="23" width="1063" height="692" extended-state="0" />
@@ -845,12 +839,6 @@
           <line>22</line>
           <properties />
           <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/TwoString.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1244,8 +1232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TwoString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="53" column="5" selection-start-line="24" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="19">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="53" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

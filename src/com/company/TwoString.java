@@ -40,7 +40,7 @@ public class TwoString {
         int max = 0;
         int temp;
         for (int k = 1; k < 26; k++ ) {
-           temp = alpha1[k] + alpha2[k];
+            temp = alpha1[k] + alpha2[k];
             if (max < temp) {
                 max = temp;
             }
