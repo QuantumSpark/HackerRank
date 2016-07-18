@@ -46,6 +46,7 @@ public class Main {
 
 //        TwoString.solve();
 //        BeautifulBinaryString.solve();
-        GameOfThrone.solve();
+//        GameOfThrone.solve();
+        AbsolutePermutation.solve();
     }
 }
