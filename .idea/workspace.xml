@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0a4818c-a074-4f09-8030-7460eb68d623" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/BeautifulBinaryString.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/BeautifulBinaryString.java" afterPath="$PROJECT_DIR$/src/com/company/BeautifulBinaryString.java" />
     </list>
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,8 +96,8 @@
       <file leaf-file-name="BeautifulBinaryString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BeautifulBinaryString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="212">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -791,7 +789,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72879000" />
+    <option name="totallyTimeSpent" value="73243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="217" y="23" width="1063" height="692" extended-state="0" />
@@ -1277,8 +1275,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/BeautifulBinaryString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="212">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

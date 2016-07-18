@@ -25,7 +25,7 @@ public class BeautifulBinaryString {
             String a = s.substring(i, i + 3);
                 if (s.substring(i, i + 3).equals("010")) {
                     count++;
-                    i += 2;
+                    i += 3;
                 } else {
                     i++;
                 }
