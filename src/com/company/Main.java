@@ -45,6 +45,7 @@ public class Main {
 //        LoveLetter.solve();
 
 //        TwoString.solve();
-        BeautifulBinaryString.solve();
+//        BeautifulBinaryString.solve();
+        GameOfThrone.solve();
     }
 }
