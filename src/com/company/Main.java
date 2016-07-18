@@ -44,6 +44,7 @@ public class Main {
       //  Gemstones.solve();
 //        LoveLetter.solve();
 
-        TwoString.solve();
+//        TwoString.solve();
+        BeautifulBinaryString.solve();
     }
 }
