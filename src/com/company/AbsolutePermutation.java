@@ -20,41 +20,38 @@ public class AbsolutePermutation {
 
         Integer nn = new Integer(n);
         Integer kk = new Integer(k);
-        int[] s = new int[nn];
-        List<Integer> sb2 = new ArrayList<Integer>();
-        for (int i =0; i < nn; i++) {
-            s[i] = i+1;
+        int[] sb = new int[nn];
+        int max1 =0;
+        int max2 =0;
+        for (int i = 0; i < nn; i++) {
+
+            sb[i] = i+1;
+            max1 += sb[i] ;
         }
-
-        for (int i =0 ; i < nn; i++) {
-            int c1 = s[i];
-           for (int j = 0 ;j < nn; j++) {
-
-               int c2 = s[j];
-               if (Math.abs(c1 - c2) == kk) {
-                   if (!sb2.contains(s[j])) {
-                       sb2.add(s[j]);
-                       break;
-                   }
-               }
-           }
-
-
+        if (kk != 0) {
+            for (int i = 0; i < nn; i++) {
+                if ((i / kk) % 2 == 0) {
+                    sb[i] += kk;
+                } else {
+                    sb[i] -= kk;
+                }
+                max2 += sb[i];
+            }
+        } else {
+            for (int i = 0; i < nn; i++) {
+                System.out.print(sb[i] + " ");
+            }
+            System.out.println();
+            return;
         }
-
-
-           if (sb2.contains(0) || sb2.size() != nn) {
-               System.out.println("-1");
-               return;
-           }
-        for (int i =0; i < sb2.size(); i++) {
-
-                System.out.print(sb2.get(i) + " ");
-
-
+        if (max1 == max2) {
+            for (int i = 0; i < nn; i++) {
+                System.out.print(sb[i] + " ");
+            }
+            System.out.println();
+        } else {
+            System.out.println(-1);
         }
-        System.out.println();
-
 
     }
 }
