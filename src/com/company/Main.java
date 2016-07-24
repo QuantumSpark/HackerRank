@@ -50,6 +50,7 @@ public class Main {
 //        AbsolutePermutation.solve();
 
  //       MarsExploration.solve();
-        SherlockandAnagram.solve();
+//        SherlockandAnagram.solve();
+        InsertionSortI.solve();
     }
 }
