@@ -47,6 +47,7 @@ public class Main {
 //        TwoString.solve();
 //        BeautifulBinaryString.solve();
 //        GameOfThrone.solve();
-        AbsolutePermutation.solve();
+//        AbsolutePermutation.solve();
+        InsertionSortI.solve();
     }
 }
