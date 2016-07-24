@@ -48,6 +48,9 @@ public class Main {
 //        BeautifulBinaryString.solve();
 //        GameOfThrone.solve();
 //        AbsolutePermutation.solve();
+
+ //       MarsExploration.solve();
+//        SherlockandAnagram.solve();
         InsertionSortI.solve();
     }
 }
