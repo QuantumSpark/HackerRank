@@ -49,6 +49,7 @@ public class Main {
 //        GameOfThrone.solve();
 //        AbsolutePermutation.solve();
 
-        MarsExploration.solve();
+ //       MarsExploration.solve();
+        SherlockandAnagram.solve();
     }
 }
