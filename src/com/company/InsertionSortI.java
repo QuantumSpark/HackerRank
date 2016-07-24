@@ -8,7 +8,7 @@ public class InsertionSortI {
         int tmp = ar[ar.length-1];
         int j=ar.length-2;
 
-        while (j< ar.length && ar[j]>tmp) {
+        while (j>=0 && ar[j]>tmp) {
             ar[j+1] = ar[j];
             printArray(ar);
 
