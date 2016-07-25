@@ -52,6 +52,7 @@ public class Main {
  //       MarsExploration.solve();
 //        SherlockandAnagram.solve();
 //        InsertionSortI.solve();
-        InsertionSortII.solve();
+//        InsertionSortII.solve();
+        cutTheSticks.solve();
     }
 }
