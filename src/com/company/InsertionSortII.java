@@ -8,6 +8,7 @@ import java.io.*;
 public class InsertionSortII {
 
     private static void insertionSortPart2(int[] ar) {
+        int count = 0;
         for (int i = 1; i < ar.length ; i++) {
             int tmp = ar[i];
             int j = i-1;
