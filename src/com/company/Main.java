@@ -53,6 +53,7 @@ public class Main {
 //        SherlockandAnagram.solve();
 //        InsertionSortI.solve();
 //        InsertionSortII.solve();
-        cutTheSticks.solve();
+//        cutTheSticks.solve();
+        BiggerIsGreater.solve();
     }
 }
