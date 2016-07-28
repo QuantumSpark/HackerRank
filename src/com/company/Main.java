@@ -53,6 +53,11 @@ public class Main {
 //        SherlockandAnagram.solve();
 //        InsertionSortI.solve();
 //        InsertionSortII.solve();
-        cutTheSticks.solve();
+//        cutTheSticks.solve();
+//        BirthdayCake.solve();
+//          CountingValley.solve();
+//        MagicSquareForming.solve();
+//        antiprimeNumber.solve();
+        ExtremelyDangerousVirus.solve();
     }
 }
