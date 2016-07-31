@@ -62,7 +62,8 @@ public class Main {
 //        jumpingonclouds.solve();
 //        StringConstruction.solve();
 //        camelCase.solve();
-        JumpingCloudsTwo.solve();
+//        JumpingCloudsTwo.solve();
+        IceCreamParlor.solve();
     }
 
 }
