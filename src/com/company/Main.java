@@ -59,6 +59,7 @@ public class Main {
 //        MagicSquareForming.solve();
 //        antiprimeNumber.solve();
 //        ExtremelyDangerousVirus.solve();
-        jumpingonclouds.solve();
+//        jumpingonclouds.solve();
+        StringConstruction.solve();
     }
 }
