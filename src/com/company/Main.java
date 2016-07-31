@@ -61,6 +61,8 @@ public class Main {
 //        ExtremelyDangerousVirus.solve();
 //        jumpingonclouds.solve();
 //        StringConstruction.solve();
-        camelCase.solve();
+//        camelCase.solve();
+        JumpingCloudsTwo.solve();
     }
+
 }
