@@ -60,6 +60,7 @@ public class Main {
 //        antiprimeNumber.solve();
 //        ExtremelyDangerousVirus.solve();
 //        jumpingonclouds.solve();
-        StringConstruction.solve();
+//        StringConstruction.solve();
+        camelCase.solve();
     }
 }
