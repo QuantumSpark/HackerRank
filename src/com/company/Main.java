@@ -58,6 +58,7 @@ public class Main {
 //          CountingValley.solve();
 //        MagicSquareForming.solve();
 //        antiprimeNumber.solve();
-        ExtremelyDangerousVirus.solve();
+//        ExtremelyDangerousVirus.solve();
+        jumpingonclouds.solve();
     }
 }
