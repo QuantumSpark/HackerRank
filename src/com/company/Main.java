@@ -65,7 +65,8 @@ public class Main {
 //        JumpingCloudsTwo.solve();
 //        IceCreamParlor.solve();
 
-          BFSShortest.solve();
+//          BFSShortest.solve();
+        maxSubarray.solve();
     }
 
 }
