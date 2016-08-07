@@ -66,7 +66,8 @@ public class Main {
 //        IceCreamParlor.solve();
 
 //          BFSShortest.solve();
-        maxSubarray.solve();
+//        maxSubarray.solve();
+        Dijkstra.solve();
     }
 
 }
