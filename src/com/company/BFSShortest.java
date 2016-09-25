@@ -39,8 +39,6 @@ public class BFSShortest {
         while (!q.isEmpty()) {
             int u = q.remove();
                 for (int  v =0; v < n ; v++) {
-
-
                     if (adjmatrix[u][v] == 1 && discovered[v] == 0 ) {
                             list[v] = list[u] + 6;
                         q.add(v);
