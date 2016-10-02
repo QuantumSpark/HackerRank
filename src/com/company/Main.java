@@ -68,7 +68,8 @@ public class Main {
 //          BFSShortest.solve();
 //        maxSubarray.solve();
 //        Dijkstra.solve();
-        EvenTree.solve();
+//        EvenTree.solve();
+        QuickSort.solve();
     }
 
 }
