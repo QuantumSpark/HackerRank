@@ -69,7 +69,8 @@ public class Main {
 //        maxSubarray.solve();
 //        Dijkstra.solve();
 //        EvenTree.solve();
-        QuickSort.solve();
+//        QuickSort.solve();
+        MergeSort.solve();
     }
 
 }
