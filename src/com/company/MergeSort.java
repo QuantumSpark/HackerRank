@@ -16,7 +16,7 @@ public class MergeSort {
             inputs[i] = in.nextInt();
         }
         mergeSort(inputs,0,size);
-       
+
     }
 
     public static void merge (Integer[] array, int lo, int mid, int hi ){
