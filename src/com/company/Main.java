@@ -70,7 +70,8 @@ public class Main {
 //        Dijkstra.solve();
 //        EvenTree.solve();
 //        QuickSort.solve();
-        MergeSort.solve();
+//        MergeSort.solve();
+        LuckBalance.solve();
     }
 
 }
