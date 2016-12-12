@@ -1,17 +1,13 @@
-
 t = int(raw_input().strip())
-weight = sorted(map(int, raw_input().split()))
-l = list()
-for i, item in enumerate(weight):
-    tmp = [x for x in range(item, item+4)]
-    count = 0
-    for j in range(i,len(weight)):
-        w = weight[j]
-        if w > item + 4:
-            break;
-        if w in tmp:
-            count+=1
+weights = sorted(map(int, raw_input().strip().split(' ')))
 
-    l.append(count)
+startBuying = weights[0]
+totalAmount = 1
+for wprime in weights:
+    if wprime > startBuying + 4:
+        startBuying = wprime
+        totalAmount += 1
+print totalAmount
 
-print max(l)
+# If this if-statement is skipped, then that that means
+# the toy is within [wprime, wprime+4]
